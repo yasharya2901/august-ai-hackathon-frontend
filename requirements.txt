@@ -1,0 +1,5 @@
+streamlit              # Streamlit for creating the web application
+requests               # Requests library to handle HTTP requests to the Flask backend
+Pillow                 # For handling images, if needed within Streamlit
+validators             # Optional: For URL validation and other input validations in Streamlit
+python-dotenv          # Optional: For environment variable management, if needed
